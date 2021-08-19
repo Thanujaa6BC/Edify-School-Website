@@ -1,0 +1,65 @@
+body {
+    text-align: center;
+    background-color: beige;
+}
+
+.movie_text span {
+    color: #ff7700;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.movie_head i 
+{
+float: right;
+}
+
+.movie_head span 
+{
+float: left;
+}
+
+.environment_li {
+    margin-top: 13px;
+}
+
+environment_li img {
+    border-radius: 25px;
+    height: 250px;
+}
+
+.environment_li p {
+    margin-top: 10px;
+}
+
+.bg-primary {
+    color: #fff;
+    background-color: #337ab7;
+}
+
+input
+{
+    background: grey
+}
+
+.alumni {
+    cursor : pointer;
+}
+
+
+.modal-content {
+    margin-top: 10px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top : 10px;
+}
